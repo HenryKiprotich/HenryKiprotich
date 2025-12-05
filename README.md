@@ -23,23 +23,24 @@ I love building **high-performance APIs**, **intelligent systems**, and **robust
 * C#, .NET (Web API, MVC, Microservices)
 * Python (FastAPI)
 * C++ (systems fundamentals)
-* Java (Spring basics)
+* Java
 * REST APIs, GraphQL
 * Event-driven architecture
 * System design & performance optimization
 
-### **🤖 Artificial Intelligence & ML**
+### **🤖 Data & Artificial Intelligence & ML**
 
 * LangChain, LLM orchestration
 * Retrieval-Augmented Generation (RAG)
 * TensorFlow
-* Classical ML (scikit-learn, Tensorflow)
+* Pandas
+* Classical ML (scikit-learn)
 * AI assistants & automation systems
 * Face Recognition integrations and access control 
 
 ### **🛠️ Tools & Technologies**
 
-* Databases: PostgreSQL, MySQL, SQL Server
+* Databases: PostgreSQL, MySQL, SQL Server, Mongo DB
 * Cloud: **Render**, Azure, Windows Server, IIS
 * DevOps basics: CI/CD, Docker
 * Mobile: **Android Studio (Java)**, React Native
