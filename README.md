@@ -41,10 +41,10 @@ I love building **high-performance APIs**, **intelligent systems**, and **robust
 ### **🛠️ Tools & Technologies**
 
 * Databases: PostgreSQL, MySQL, SQL Server, Mongo DB
-* Cloud: **Render**, Azure, Windows Server, IIS
+* Cloud: **Render**, Azure, AWS, GCP, Windows Server, IIS
 * DevOps basics: CI/CD, Docker
 * Mobile: **Android Studio (Java)**, React Native
-* Frontend: Next.js
+* Frontend: Next.js, React.js
 
 ---
 
