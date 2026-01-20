@@ -1,24 +1,43 @@
 ---
 
-# 👋 Hi, I’m Henry — Software Engineer (Backend & AI)
+# 👋 Hi, I’m Henry — Software Engineer (Backend, Infrastructure & Systems)
 
-I’m a passionate **Software Engineer specializing in Backend Systems, Artificial Intelligence, and scalable cloud applications**.
-I love building **high-performance APIs**, **intelligent systems**, and **robust backend architectures** that power real-world products.
+I’m a **Software Engineer with a strong focus on Backend Engineering, Infrastructure, and Systems Administration**.
+I enjoy building and operating **reliable, secure, and observable systems**—from application code to the servers, networks, and cloud platforms they run on.
 
 ---
 
 ## 🚀 About Me
 
-* 🔧 **Backend Engineer** with experience designing enterprise-grade microservices and distributed systems.
-* 🤖 **AI/ML Developer** working with LLMs, LangChain, TensorFlow, and intelligent automation.
-* ⚙️ I enjoy building operational systems: finance, accounting, fraud detection, field apps, face-recognition platforms, and more.
-* 🌍 Strong interest in using tech to solve real problems across Africa (fintech, agriculture, livestock, logistics, cyber-defense).
+* 🖧 **Infrastructure & Systems**: I design, deploy, and operate Linux/Windows servers, networks, and cloud-native environments.
+* 🔧 **Backend Engineer**: I build robust APIs and services with a focus on performance, observability, and maintainability.
+* 🛡️ **Reliability & Security**: I care deeply about uptime, monitoring, alerting, least-privilege access, and safe automation.
+* 🌍 Interested in infrastructure that supports real-world systems in Africa (fintech, agriculture, livestock, logistics, cyber-defense).
 
 ---
 
 ## 🧠 Core Skills
 
-### **💻 Backend Engineering**
+### 🖥️ Infrastructure, Systems & DevOps
+
+* **Operating Systems**: Linux (Ubuntu, Debian, CentOS), Windows Server
+* **Web & Application Servers**: IIS, Nginx, Apache
+* **Virtualization & Containers**: Docker, containerized services
+* **CI/CD & Automation**: GitHub Actions, basic CI/CD pipelines, scripting for automation
+* **Monitoring & Logging**: Basics of health checks, metrics, log aggregation, and alerting
+* **Security & Access Control**:
+  * User and permissions management
+  * Network security fundamentals (firewalls, VPNs, security groups)
+  * Identity & access concepts (RBAC, least privilege)
+* **Networking Fundamentals**:
+  * IP, DNS, routing basics
+  * Load balancing concepts
+  * Reverse proxying and API gateways
+* **Backup & Recovery**:
+  * Database backup strategies
+  * Configuration backup and environment documentation
+
+### 💻 Backend Engineering
 
 * C#, .NET (Web API, MVC, Microservices)
 * Python (FastAPI)
@@ -27,8 +46,9 @@ I love building **high-performance APIs**, **intelligent systems**, and **robust
 * REST APIs, GraphQL
 * Event-driven architecture
 * System design & performance optimization
+* Observability: logging, tracing, metrics for backend services
 
-### **🤖 Data & Artificial Intelligence & ML**
+### 🤖 Data, AI & ML (Supporting Systems)
 
 * LangChain, LLM orchestration
 * Retrieval-Augmented Generation (RAG)
@@ -36,29 +56,37 @@ I love building **high-performance APIs**, **intelligent systems**, and **robust
 * Pandas
 * Classical ML (scikit-learn)
 * AI assistants & automation systems
-* Face Recognition integrations and access control 
+* Face recognition integrations and access control systems
 
-### **🛠️ Tools & Technologies**
+### 🛠️ Tools & Technologies
 
-* Databases: PostgreSQL, MySQL, SQL Server, Mongo DB
-* Cloud: **Render**, Azure, AWS, GCP, Windows Server, IIS
-* DevOps basics: CI/CD, Docker
-* Mobile: **Android Studio (Java)**, React Native
-* Frontend: Next.js, React.js
+* **Databases**: PostgreSQL, MySQL, SQL Server, MongoDB
+* **Cloud Platforms**: Render, Azure, AWS, GCP
+* **Servers**: Windows Server, Linux-based servers, IIS-hosted applications
+* **DevOps Basics**: CI/CD, Docker, automated deployments
+* **Mobile**: Android Studio (Java), React Native
+* **Frontend**: Next.js, React.js
 
 ---
 
 ## 🧩 What I’m Working On
 
-* Building **AI-powered backend systems** (credit scoring, cyber-defense, livestock tracking).
-* Integrating intelligent insights into finance and enterprise systems.
-* Developing clean, scalable backend architectures.
+* Designing and operating **secure, reliable infrastructure** for backend and AI-powered systems.
+* Improving **deployment pipelines**, monitoring, and observability for production services.
+* Building **AI-powered backend systems** (credit scoring, cyber-defense, livestock tracking) with a strong focus on reliability and scalability.
+* Documenting environments, standard operating procedures (SOPs), and runbooks for smoother operations.
 
 ---
 
 ## 📫 Let’s Connect
 
-Feel free to reach out if you want to collaborate on **backend systems**, **AI integrations**, or **full product development**.
+I’m open to roles in:
+
+* **Infrastructure / Platform Engineering**
+* **Systems Administration (Linux / Windows / Cloud)**
+* **Backend Engineering with strong infra responsibilities**
+* **DevOps / Site Reliability (entry–mid level)**
+
+Feel free to reach out if you’re looking for someone who can **build** systems and also **keep them running securely and reliably in production**.
 
 ---
-
