@@ -20,15 +20,19 @@ I enjoy building and operating **reliable, secure, and observable systems**—fr
 
 ### 🖥️ Infrastructure, Systems & DevOps
 
-* **Operating Systems**: Linux (Ubuntu), Windows Server
+* **Operating Systems**: Linux (Ubuntu, Debian, CentOS), Windows Server
 * **Web & Application Servers**: IIS, Nginx, Apache
-* **Virtualization & Containers**: Hyper-V, VMware ESXi, Docker, containerized services
+* **Virtualization & Containers**: Docker, containerized services
 * **CI/CD & Automation**: GitHub Actions, basic CI/CD pipelines, scripting for automation
+* **Shell & Scripting**:
+  * Bash scripting (Linux)
+  * PowerShell (Windows automation & administration)
+  * Windows Command Line (CMD)
 * **Monitoring & Logging**: Basics of health checks, metrics, log aggregation, and alerting
 * **Security & Access Control**:
   * User and permissions management
   * Network security fundamentals (firewalls, VPNs, security groups)
-  * Identity & access concepts (RBAC, ADFS, Azure AD, Active Directory, least privilege)
+  * Identity & access concepts (RBAC, least privilege)
 * **Networking Fundamentals**:
   * IP, DNS, routing basics
   * Load balancing concepts
