@@ -1,9 +1,9 @@
----
-
 # 👋 Hi, I’m Henry — Systems Engineer (Backend & Infrastructure)
 
-I’m a **Software Engineer with a strong focus on Backend Engineering, Infrastructure, and Systems Administration**.
-I enjoy building and operating **reliable, secure, and observable systems**—from application code to the servers, networks, and cloud platforms they run on.
+I’m a **Systems Engineer** focused on **backend engineering and infrastructure**.  
+I build and run **reliable, secure, and observable systems**—from application code to the servers, networks, and cloud platforms they run on.
+
+I enjoy working close to the metal, solving hard operational problems, and turning complex systems into something stable and scalable.
 
 ---
 
