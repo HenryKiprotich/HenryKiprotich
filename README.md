@@ -1,6 +1,6 @@
 ---
 
-# 👋 Hi, I’m Henry — Software Engineer (Backend, Infrastructure & Systems)
+# 👋 Hi, I’m Henry — Systems Engineer (Backend & Infrastructure)
 
 I’m a **Software Engineer with a strong focus on Backend Engineering, Infrastructure, and Systems Administration**.
 I enjoy building and operating **reliable, secure, and observable systems**—from application code to the servers, networks, and cloud platforms they run on.
