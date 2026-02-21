@@ -1,6 +1,7 @@
-# 👋 Hi, I’m Henry — Systems Engineer (Backend & Infrastructure)
+---
+# 👋 Hi, I’m Henry — Systems Engineer (Development & Infrastructure)
 
-I’m a **Systems Engineer** focused on **backend engineering and infrastructure**.  
+I’m a **Systems Engineer** focused on **Software Development and infrastructure engineering**.  
 I build and run **reliable, secure, and observable systems**—from application code to the servers, networks, and cloud platforms they run on.
 
 I enjoy working close to the metal, solving hard operational problems, and turning complex systems into something stable and scalable.
@@ -9,88 +10,100 @@ I enjoy working close to the metal, solving hard operational problems, and turni
 
 ## 🚀 About Me
 
-* 🖧 **Infrastructure & Systems**: I design, deploy, and operate Linux/Windows servers, networks, and cloud-native environments.
-* 🔧 **Backend Engineer**: I build robust APIs and services with a focus on performance, observability, and maintainability.
-* 🛡️ **Reliability & Security**: I care deeply about uptime, monitoring, alerting, least-privilege access, and safe automation.
-* 🌍 Interested in infrastructure that supports real-world systems in Africa (fintech, agriculture, livestock, logistics, cyber-defense).
-
+- 🖧 **Infrastructure & Systems**: Provisioning, configuring, and administering Windows Server and Linux environments across on-premises and cloud setups.
+- 🗄️ **SQL Server & Data Platforms**: Installing and administering Microsoft SQL Server — authentication modes, users and roles, backups, restores, and cross-server migrations.
+- 🔧 **Backend & API Support**: Deploying and managing .NET Web APIs and microservices on IIS-hosted Windows Server environments, as well as configuring Nginx for Linux-based deployments and reverse proxy setups.
+- 🛡️ **Reliability & Security**: Firewall configuration, port management, RBAC implementation, SSL/TLS configuration, server hardening, and backup/disaster recovery testing.
+- ☁️ **Cloud & Enterprise Systems**: Supporting Microsoft 365, Azure resources, Microsoft Dynamics 365 Business Central, and Zoho environments.
+- 🖥️ **Virtualization**: Working with Hyper-V and VMware ESXi for VM provisioning, guest OS deployment, and infrastructure support.
+- 🧩 **Systems Integration**: Implementing API-based integrations between enterprise systems, ERP platforms, and third-party services.
 ---
 
 ## 🧠 Core Skills
 
-### 🖥️ Infrastructure, Systems & DevOps
+### 🖥️ Infrastructure, Systems & Cloud
 
-* **Operating Systems**: Linux (Ubuntu, Debian, CentOS), Windows Server
-* **Web & Application Servers**: IIS, Nginx, Apache
-* **Virtualization & Containers**: Docker, containerized services
-* **CI/CD & Automation**: GitHub Actions, basic CI/CD pipelines, scripting for automation
-* **Shell & Scripting**:
-  * Bash scripting (Linux)
-  * PowerShell (Windows automation & administration)
-  * Windows Command Line (CMD)
-* **Monitoring & Logging**: Basics of health checks, metrics, log aggregation, and alerting
-* **Security & Access Control**:
-  * User and permissions management
-  * Network security fundamentals (firewalls, VPNs, security groups)
-  * Identity & access concepts (RBAC, least privilege)
-* **Networking Fundamentals**:
-  * IP, DNS, routing basics
-  * Load balancing concepts
-  * Reverse proxying and API gateways
-* **Backup & Recovery**:
-  * Database backup strategies
-  * Configuration backup and environment documentation
+- **Operating Systems**: Windows Server, Linux (Ubuntu)
+- **Directory & Identity Services**: Active Directory (AD), Azure AD (Microsoft Entra ID), ADFS, DNS
+- **Virtualization & Compute**: Hyper-V, VMware ESXi, VirtualBox (VM provisioning, guest OS deployment, resource allocation)
+- **Web & Application Hosting**: IIS-hosted ASP.NET applications on Windows Server, Nginx (reverse proxy & web server configurations)
+- **Cloud Platforms**: Microsoft Azure (primary), AWS & GCP (foundational exposure)
+- **Enterprise Platforms**: Microsoft 365, Microsoft Dynamics 365 Business Central, Zoho
 
-### 💻 Backend Engineering
+- **Networking & Security Fundamentals**:
+  - DNS, DHCP, TCP/IP fundamentals
+  - Firewall configuration
+  - Port management, NAT, and secure remote access
+  - SSL/TLS configuration and certificate management
+  - Basic server hardening practices
 
-* C#, .NET (Web API, MVC, Microservices)
-* Python (FastAPI)
-* C++ (systems fundamentals)
-* Java
-* REST APIs, GraphQL
-* Event-driven architecture
-* System design & performance optimization
-* Observability: logging, tracing, metrics for backend services
+- **Backup & Disaster Recovery**:
+  - Microsoft SQL Server backups, restores, and maintenance plans
+  - On-premises and offsite backup strategies
+  - Restore validation, recovery testing, and availability checks
+---
 
-### 🤖 Data, AI & ML (Supporting Systems)
+### 🗄️ Databases & Data Platforms
 
-* LangChain, LLM orchestration
-* Retrieval-Augmented Generation (RAG)
-* TensorFlow
-* Pandas
-* Classical ML (scikit-learn)
-* AI assistants & automation systems
-* Face recognition integrations and access control systems
-
-### 🛠️ Tools & Technologies
-
-* **Databases**: PostgreSQL, MySQL, SQL Server, MongoDB
-* **Cloud Platforms**: Render, Azure, AWS, GCP
-* **Servers**: Windows Server, Linux-based servers, IIS-hosted applications
-* **DevOps Basics**: CI/CD, Docker, automated deployments
-* **Mobile**: Android Studio (Java), React Native
-* **Frontend**: Next.js, React.js
+- Microsoft SQL Server (installation, authentication modes, users, roles)
+- PostgreSQL
+- MySQL
+- MongoDB
 
 ---
 
-## 🧩 What I’m Working On
+### 💻 Development & Automation
 
-* Designing and operating **secure, reliable infrastructure** for backend and AI-powered systems.
-* Improving **deployment pipelines**, monitoring, and observability for production services.
-* Building **AI-powered backend systems** (credit scoring, cyber-defense, livestock tracking) with a strong focus on reliability and scalability.
-* Documenting environments, standard operating procedures (SOPs), and runbooks for smoother operations.
+- C#, ASP.NET Core
+- FastAPI (Python)
+- Python, SQL
+- JavaScript, TypeScript
+- REST APIs
+- GraphQL API Gateway integrations
+- Microservice-based architectures (.NET + React + MS SQL Server)
+- Git & GitHub
 
+---
+
+### 🐳 Containers & DevOps Foundations
+
+- Docker
+- Kubernetes (basic deployment concepts)
+- Basic CI/CD concepts
+- Infrastructure documentation & runbooks
+
+---
+
+### 🖥️ Shell & Scripting
+
+- Bash scripting (Linux automation)
+- PowerShell (Windows administration & automation)
+- Windows Command Line (CMD)
+
+---
+* ## 🧩 What I’m Working On
+
+- Designing and operating **secure, reliable infrastructure** for information systems across Windows and Linux environments.
+- Bridging **development and infrastructure** — building systems I can both develop and confidently run in production.
+- Improving **CI/CD pipelines, automated deployments, and DevOps workflows** for faster and safer releases.
+- Strengthening **monitoring, logging, and observability practices** for production-grade systems.
+- Building and refining **.NET (ASP.NET Core) systems** with a focus on clean architecture, performance, and maintainability.
+- Developing **RESTful APIs and GraphQL integrations** for scalable microservice-based systems.
+- Exploring **Python (FastAPI) for backend services, automation, and AI-driven systems**.
+- Integrating **AI capabilities into backend applications**, including LLM-powered assistants, workflow automation, and intelligent data processing.
+- Working with **Docker and containerized deployments** to improve portability and environment consistency.
+- Applying **DevOps principles** — infrastructure awareness, automation, reliability, and continuous improvement.
+- Strengthening **system design skills** for distributed systems and production-ready backend architectures.
+- Documenting environments, standard operating procedures (SOPs), and runbooks to improve operational clarity and reliability.
 ---
 
 ## 📫 Let’s Connect
 
 I’m open to roles in:
 
-* **Infrastructure / Platform Engineering**
-* **Systems Administration (Linux / Windows / Cloud)**
-* **Backend Engineering with strong infra responsibilities**
-* **DevOps / Site Reliability (entry–mid level)**
+- **Software Engineering with strong infrastructure responsibility**
+- **Infrastructure / Platform Engineering**
+- **Systems Administration (Windows / Linux / Cloud)**
+- **DevOps / Site Reliability**
 
-Feel free to reach out if you’re looking for someone who can **build** systems and also **keep them running securely and reliably in production**.
-
----
+If you’re looking for someone who can **design infrastructure, deploy systems, troubleshoot production issues, and document operations clearly**, let’s connect.
