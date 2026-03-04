@@ -54,8 +54,8 @@ I enjoy working close to the metal, solving hard operational problems, and turni
 
 ### 💻 Development & Automation
 
-- C#, ASP.NET Core
-- FastAPI (Python)
+- C#, .NET, ASP.NET Core
+- FastAPI
 - Python, SQL
 - JavaScript, TypeScript
 - REST APIs
@@ -101,9 +101,8 @@ I enjoy working close to the metal, solving hard operational problems, and turni
 
 I’m open to roles in:
 
-- **Software Engineering with strong infrastructure responsibility**
-- **Infrastructure / Platform Engineering**
-- **Systems Administration (Windows / Linux / Cloud)**
-- **DevOps / Site Reliability**
+- **Systems Engineering (Development + Infrastructure)**
 
-If you’re looking for someone who can **design infrastructure, deploy systems, troubleshoot production issues, and document operations clearly**, let’s connect.
+I am particularly interested in environments where engineers are responsible not just for writing code, but for designing infrastructure, deploying applications, securing systems, troubleshooting production issues, and documenting operations with clarity.
+
+If you are looking for someone who can take a system from architecture → deployment → production support, let’s connect.
