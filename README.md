@@ -65,15 +65,15 @@ I work at the intersection of **software engineering and systems/platform engine
 - Windows CLI administration  
 
 ---
-
 ## 🔧 What I Focus On
 
-- Bridging software development and platform operations 
-- Deploying applications in virtualized and containerized environments  
-- Improving deployment automation and system reliability  
-- Implementing monitoring, logging, and operational visibility  
-- Writing clear technical documentation and SOPs  
-
+- Engineering backend and enterprise integration components using **.NET (C#)** for core business and service logic  
+- Bridging application development with infrastructure and platform operations to support production-ready systems  
+- Deploying and managing workloads across **virtualized and containerized environments**  
+- Designing and improving automation pipelines for deployments, configuration management, and operational workflows
+- Supporting system and platform workflows using **Python for automation, orchestration, and operational intelligence tasks**    
+- Enhancing system reliability through monitoring, logging, health checks, and observability practices  
+- Maintaining clear technical documentation, standard operating procedures (SOPs), and operational runbooks 
 ---
 
 ## 📫 Let’s Connect
