@@ -1,108 +1,87 @@
----
-# 👋 Hi, I’m Henry — Systems Engineer (Development & Infrastructure)
+# 👋 Hi, I am Henry — Systems Engineer (Development + Infrastructure)
 
-I’m a **Systems Engineer** focused on **Software Development and infrastructure engineering**.  
-I build and run **reliable, secure, and observable systems**—from application code to the servers, networks, and cloud platforms they run on.
+I build and operate **reliable, secure, and observable systems** across the full stack — from application services to infrastructure platforms.
 
-I enjoy working close to the metal, solving hard operational problems, and turning complex systems into something stable and scalable.
+I work at the intersection of **software engineering and systems/platform engineering**, focusing on production-ready architectures rather than isolated code development.
 
----
-
-## 🚀 About Me
-
-- 🖧 **Infrastructure & Systems**: Provisioning, configuring, and administering Windows Server and Linux environments across on-premises and cloud setups.
-- 🗄️ **SQL Server & Data Platforms**: Installing and administering Microsoft SQL Server — authentication modes, users and roles, backups, restores, and cross-server migrations.
-- 🔧 **Backend & API Support**: Deploying and managing .NET Web APIs and microservices on IIS-hosted Windows Server environments, as well as configuring Nginx for Linux-based deployments and reverse proxy setups.
-- 🛡️ **Reliability & Security**: Firewall configuration, port management, RBAC implementation, SSL/TLS configuration, server hardening, and backup/disaster recovery testing.
-- ☁️ **Cloud & Enterprise Systems**: Supporting Microsoft 365, Azure resources, Microsoft Dynamics 365 Business Central, and Zoho environments.
-- 🖥️ **Virtualization**: Working with Hyper-V and VMware ESXi for VM provisioning, guest OS deployment, and infrastructure support.
-- 🧩 **Systems Integration**: Implementing API-based integrations between enterprise systems, ERP platforms, and third-party services.
----
-
-## 🧠 Core Skills
+## 🧠 Core Expertise
 
 ### 🖥️ Infrastructure, Systems & Cloud
 
-- **Operating Systems**: Windows Server, Linux (Ubuntu)
-- **Directory & Identity Services**: Active Directory (AD), Azure AD (Microsoft Entra ID), ADFS, DNS
-- **Virtualization & Compute**: Hyper-V, VMware ESXi, VirtualBox (VM provisioning, guest OS deployment, resource allocation)
-- **Web & Application Hosting**: IIS-hosted ASP.NET applications on Windows Server, Nginx (reverse proxy & web server configurations)
-- **Cloud Platforms**: Microsoft Azure (primary), AWS & GCP (foundational exposure)
-- **Enterprise Platforms**: Microsoft 365, Microsoft Dynamics 365 Business Central, Zoho
+- Windows Server and Linux environments  
+- Directory and identity services (AD, Azure AD, DNS)  
+- Virtualization platforms (Hyper-V, VMware, VirtualBox)  
+- Web application hosting (IIS, Nginx reverse proxies)  
+- Enterprise cloud platforms (Azure primary, AWS/GCP foundational)  
+- Enterprise ecosystem integrations (Microsoft 365, Dynamics, Zoho)
 
-- **Networking & Security Fundamentals**:
-  - DNS, DHCP, TCP/IP fundamentals
-  - Firewall configuration
-  - Port management, NAT, and secure remote access
-  - SSL/TLS configuration and certificate management
-  - Basic server hardening practices
+**Networking & Security**
+- TCP/IP, DNS, DHCP fundamentals  
+- Firewall and port management  
+- SSL/TLS certificate configuration  
+- Remote access security  
+- Basic server hardening  
 
-- **Backup & Disaster Recovery**:
-  - Microsoft SQL Server backups, restores, and maintenance plans
-  - On-premises and offsite backup strategies
-  - Restore validation, recovery testing, and availability checks
+**Reliability Engineering**
+- SQL Server backup and recovery strategies  
+- Disaster recovery planning and testing  
+- Environment validation and production readiness checks  
+
 ---
 
-### 🗄️ Databases & Data Platforms
+### 🗄️ Databases
 
-- Microsoft SQL Server (installation, authentication modes, users, roles)
-- PostgreSQL
-- MySQL
-- MongoDB
+- Microsoft SQL Server  
+- PostgreSQL  
+- MySQL  
+- MongoDB  
 
 ---
 
 ### 💻 Development & Automation
 
-- C#, .NET, ASP.NET Core
-- FastAPI
-- Python, SQL
-- JavaScript, TypeScript
-- REST APIs
-- GraphQL API Gateway integrations
-- Microservice-based architectures (.NET + React + MS SQL Server)
-- Git & GitHub
+- C#, .NET / ASP.NET Core  
+- Python (FastAPI, automation, backend services)  
+- JavaScript / TypeScript  
+- REST and GraphQL APIs  
+- Microservices architectures  
+- Git and CI/CD workflows  
 
 ---
 
 ### 🐳 Containers & DevOps Foundations
 
-- Docker
-- Kubernetes (basic deployment concepts)
-- Basic CI/CD concepts
-- Infrastructure documentation & runbooks
+- Docker containerization  
+- Kubernetes workload orchestration  
+- CI/CD pipeline concepts  
+- Infrastructure documentation and runbooks  
 
 ---
 
-### 🖥️ Shell & Scripting
+### 🖥️ Scripting & Automation
 
-- Bash scripting (Linux automation)
-- PowerShell (Windows administration & automation)
-- Windows Command Line (CMD)
+- Bash scripting  
+- PowerShell automation  
+- Windows CLI administration  
 
 ---
-* ## 🧩 What I’m Working On
 
-- Designing and operating **secure, reliable infrastructure** for information systems across Windows and Linux environments.
-- Bridging **development and infrastructure** — building systems I can both develop and confidently run in production.
-- Improving **CI/CD pipelines, automated deployments, and DevOps workflows** for faster and safer releases.
-- Strengthening **monitoring, logging, and observability practices** for production-grade systems.
-- Building and refining **.NET (ASP.NET Core) systems** with a focus on clean architecture, performance, and maintainability.
-- Developing **RESTful APIs and GraphQL integrations** for scalable microservice-based systems.
-- Exploring **Python (FastAPI) for backend services, automation, and AI-driven systems**.
-- Integrating **AI capabilities into backend applications**, including LLM-powered assistants, workflow automation, and intelligent data processing.
-- Working with **Docker and containerized deployments** to improve portability and environment consistency.
-- Applying **DevOps principles** — infrastructure awareness, automation, reliability, and continuous improvement.
-- Strengthening **system design skills** for distributed systems and production-ready backend architectures.
-- Documenting environments, standard operating procedures (SOPs), and runbooks to improve operational clarity and reliability.
+## 🔧 What I Focus On
+
+- Bridging software development and platform operations 
+- Deploying applications in virtualized and containerized environments  
+- Improving deployment automation and system reliability  
+- Implementing monitoring, logging, and operational visibility  
+- Writing clear technical documentation and SOPs  
+
 ---
 
 ## 📫 Let’s Connect
 
-I’m open to roles in:
+I am open to opportunities in:
 
-- **Systems Engineering (Development + Infrastructure)**
+- Systems Engineering  
+- Platform Engineering  
+- Enterprise Infrastructure & Cloud-Native Operations  
 
-I am particularly interested in environments where engineers are responsible not just for writing code, but for designing infrastructure, deploying applications, securing systems, troubleshooting production issues, and documenting operations with clarity.
-
-If you are looking for someone who can take a system from architecture → deployment → production support, let’s connect.
+If you are looking for someone who can help move a system from **architecture → deployment → production reliability**, reach out.
