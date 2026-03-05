@@ -40,7 +40,8 @@ I work at the intersection of **software engineering and systems/platform engine
 
 ### 💻 Development & Automation
 
-- C#, .NET / ASP.NET Core  
+- C#, .NET / ASP.NET Core
+- SQL  
 - Python (FastAPI, automation, backend services)  
 - JavaScript / TypeScript  
 - REST and GraphQL APIs  
@@ -52,9 +53,10 @@ I work at the intersection of **software engineering and systems/platform engine
 ### 🐳 Containers & DevOps Foundations
 
 - Docker containerization  
-- Kubernetes workload orchestration  
+- Kubernetes fundamentals
+- Container orchestration concepts
 - CI/CD pipeline concepts  
-- Infrastructure documentation and runbooks  
+- Infrastructure documentation and runbooks
 
 ---
 
@@ -67,13 +69,15 @@ I work at the intersection of **software engineering and systems/platform engine
 ---
 ## 🔧 What I Focus On
 
-- Engineering backend and enterprise integration components using **.NET (C#)** for core business and service logic  
-- Bridging application development with infrastructure and platform operations to support production-ready systems  
-- Deploying and managing workloads across **virtualized and containerized environments**  
-- Designing and improving automation pipelines for deployments, configuration management, and operational workflows
-- Supporting system and platform workflows using **Python for automation, orchestration, and operational intelligence tasks**    
+- Designing and developing enterprise systems using .NET(C#), JavaScript/TypeScript and SQL 
+- Building and maintaining production-aware applications with attention to performance, security, and maintainability
+- Database modeling, design, implementation, optimization, and administration for transactional and operational workloads
+- Working across application, infrastructure, and platform layers to support end-to-end system reliability
+- Deploying and managing workloads in virtualized and containerized environments
+- Supporting system and platform workflows using **Python for automation, orchestration, and operational intelligence tasks** 
+- Understanding networking, identity, and security configurations required for enterprise systems
 - Enhancing system reliability through monitoring, logging, health checks, and observability practices  
-- Maintaining clear technical documentation, standard operating procedures (SOPs), and operational runbooks 
+- Maintaining clear technical documentation, standard operating procedures (SOPs), and operational runbooks
 ---
 
 ## 📫 Let’s Connect
