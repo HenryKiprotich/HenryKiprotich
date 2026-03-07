@@ -73,6 +73,7 @@ I work at the intersection of **software engineering and systems/platform engine
 - Designing and developing enterprise systems using .NET(C#), JavaScript/TypeScript and SQL 
 - Building and maintaining production-aware applications with attention to performance, security, and maintainability
 - Database modeling, design, implementation, optimization, and administration for transactional and operational workloads
+- Developing extensions for Microsoft Dynamics 365 Business Central using AL
 - Working across application, infrastructure, and platform layers to support end-to-end system reliability
 - Deploying and managing workloads in virtualized and containerized environments
 - Supporting system and platform workflows using **Python for automation, orchestration, and operational intelligence tasks** 
