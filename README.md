@@ -13,7 +13,7 @@ I work at the intersection of **software engineering and systems/platform engine
 - Virtualization platforms (Hyper-V, VMware, VirtualBox)  
 - Web application hosting (IIS, Nginx reverse proxies)  
 - Enterprise cloud platforms (Azure primary, AWS/GCP foundational)  
-- Enterprise ecosystem integrations (Microsoft 365, Dynamics, Zoho)
+- Enterprise ecosystem integrations (Microsoft 365, Microsoft Dynamics 365 Business Central)
 
 **Networking & Security**
 - TCP/IP, DNS, DHCP fundamentals  
@@ -41,7 +41,8 @@ I work at the intersection of **software engineering and systems/platform engine
 ### 💻 Development & Automation
 
 - C#, .NET / ASP.NET Core
-- SQL  
+- SQL
+- AL for Microsoft Dynamics 365 BC Extensions  
 - Python (FastAPI, automation, backend services)  
 - JavaScript / TypeScript  
 - REST and GraphQL APIs  
