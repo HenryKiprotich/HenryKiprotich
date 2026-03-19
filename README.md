@@ -6,6 +6,38 @@ I work at the intersection of **software engineering and systems/platform engine
 
 ## 🧠 Core Expertise
 
+### 💻 Development & Automation
+
+- C#, .NET / ASP.NET Core
+- SQL
+- AL for Microsoft Dynamics 365 BC Extensions  
+- Python (FastAPI, automation, backend services)  
+- JavaScript / TypeScript  
+- REST and GraphQL APIs  
+- Microservices architectures  
+- Git and CI/CD workflows  
+
+---
+
+### 🗄️ Databases
+
+- Microsoft SQL Server  
+- PostgreSQL  
+- MySQL  
+- MongoDB  
+
+---
+
+### 🐳 Containers & DevOps Foundations
+
+- Docker containerization  
+- Kubernetes fundamentals
+- Container orchestration concepts
+- CI/CD pipeline concepts  
+- Infrastructure documentation and runbooks
+
+---
+
 ### 🖥️ Infrastructure, Systems & Cloud
 
 - Windows Server and Linux environments  
@@ -26,38 +58,6 @@ I work at the intersection of **software engineering and systems/platform engine
 - SQL Server backup and recovery strategies  
 - Disaster recovery planning and testing  
 - Environment validation and production readiness checks  
-
----
-
-### 🗄️ Databases
-
-- Microsoft SQL Server  
-- PostgreSQL  
-- MySQL  
-- MongoDB  
-
----
-
-### 💻 Development & Automation
-
-- C#, .NET / ASP.NET Core
-- SQL
-- AL for Microsoft Dynamics 365 BC Extensions  
-- Python (FastAPI, automation, backend services)  
-- JavaScript / TypeScript  
-- REST and GraphQL APIs  
-- Microservices architectures  
-- Git and CI/CD workflows  
-
----
-
-### 🐳 Containers & DevOps Foundations
-
-- Docker containerization  
-- Kubernetes fundamentals
-- Container orchestration concepts
-- CI/CD pipeline concepts  
-- Infrastructure documentation and runbooks
 
 ---
 
